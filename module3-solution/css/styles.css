@@ -101,13 +101,13 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: #FFFFFF;
+/*   color: #FFFFFF; */
 }
 
 #header-nav {
   border: 0;
   background-color: #808080;
-  color: #FFFFFF;
+/*   color: #FFFFFF; */
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
