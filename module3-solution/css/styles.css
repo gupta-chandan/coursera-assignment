@@ -120,10 +120,12 @@ section {
 
 .nav-header {
   background-color: #808080;
+	color: #FFFFFF;
 }
 
 .nav-brand {
-  color: #808080;
+/*   color: #808080; */
+color: #FFFFFF;	
   font-size: 1.5em;
 }
 
