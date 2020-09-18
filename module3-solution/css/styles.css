@@ -70,7 +70,7 @@ section {
 
 #sushi {
 /* 	border: 1px solid black; */
-	text-align: text-center;
+	text-align: center;
 	width: 30%;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
@@ -101,13 +101,13 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: white;
+/*   color: white; */
 }
 
 #header-nav {
   border: 0;
   background-color: #808080;
-/*   color: #FFFFFF; */
+  color: #FFFFFF;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
