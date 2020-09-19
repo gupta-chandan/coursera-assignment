@@ -144,6 +144,7 @@ hr {
 }
 
 .item {
+  text-align: center;
   color: white;
   font-size: 1.2em;
 }
