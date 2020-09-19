@@ -35,7 +35,7 @@ section {
 	background-color: #808080;
 	width: 100%;
 	height: auto;
-	font-family: Helvetica;
+	font-family: "Comic Sans MS",cursive,sans-serif;
 	color: black;
 	position: relative;
 	overflow: auto;
@@ -87,19 +87,17 @@ section {
 #chicken-div {
   margin-bottom: 10px;
   margin-top: 10px;
-  text-align: center;
 }
 
 #beef-div {
   margin-bottom: 10px;
   margin-top: 10px;
-  text-align: center;
 }
 
 #sushi-div {
   margin-bottom: 10px;
   margin-top: 10px;
-  text-align: center;
+ 
 }
 
 .navbar-brand {
@@ -124,7 +122,7 @@ section {
 
 .nav-header {
   background-color: #808080;
-	color: #FFFFFF;
+	color: #000000;
 }
 
 .nav-brand {
