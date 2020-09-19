@@ -21,6 +21,7 @@ p {
 }
 
 .container {
+	border:	1px solid black;
 	border: none;
 	margin-left: auto;
 	margin-right: auto;
@@ -110,7 +111,7 @@ section {
 #header-nav {
   border: 0;
   background-color: #808080;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -133,6 +134,7 @@ color: #000000;
 }
 
 #nav-list {
+ text-align: center; 	
   color: white;
 }
 
@@ -142,6 +144,5 @@ hr {
 
 .item {
   color: white;
-  text-align: center; 
   font-size: 1.2em;
 }
