@@ -142,4 +142,6 @@ section {
 hr {
   border-color: black;
 }
-
+.item{
+   text-align: center;
+}
