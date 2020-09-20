@@ -135,13 +135,6 @@ section {
   color: white;
 }
 
-.text-center {
- text-align: center; 	
-}
-
 hr {
   border-color: black;
-}
-.item{
-   text-align: center;
 }
